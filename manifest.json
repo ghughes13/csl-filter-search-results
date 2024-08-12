@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Hide Chrome Sponsored Posts",
+  "name": "Hide Google Sponsored Posts",
   "description": "Hides all sponsored posts on google.",
   "version": "1.0.0",
   "author": {

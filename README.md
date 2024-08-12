@@ -1,16 +1,16 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <h3 align="center">Filter Promoted - Reddit</h3>
+  <h3 align="center">Filter Promoted - Google</h3>
 
   <p align="center">
-    An easy way to hide promoted posts on reddit. 
+    An easy way to hide promoted posts on Google. 
   </p>
 </div>
 
 ## Roadmap
 
-- [x] Hide promoted posts on reddit
+- [x] Hide promoted posts on Google
 
 Want to propose a new feature or see a bug? Open an issue here - [open issues](https://github.com/ghughes13/get-page-images/issues)
 
@@ -47,6 +47,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Garrett Hughes - [@Ghughes139](https://twitter.com/Ghughes139) - cybershiftlabs@gmail.com
 
-Project Link: [https://github.com/ghughes13/csl-reddit-filter-promoted](https://github.com/ghughes13/csl-reddit-filter-promoted)
+Project Link: [https://github.com/ghughes13/csl-filter-search-results](https://github.com/ghughes13/csl-filter-search-results)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
